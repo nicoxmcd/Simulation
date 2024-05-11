@@ -5,7 +5,7 @@
 ### Terminals
 - T1 has 12 gates
 - T2 not active
-- T3 idk but domestic only
+- T3 Domestic only
 - T# Cargo
 
 ### Runways
